@@ -1,5 +1,6 @@
 # Task Tracker with React App
 
+This project is a simple reactjs product used to track user's list of tasks and can set/unset reminder for a task by double clicking on it.The data i.e list of tasks were saved and accessed using reactjs server.
 ## Available Scripts
 
 In the project directory, you can run:
